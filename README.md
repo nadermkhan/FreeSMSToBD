@@ -8,7 +8,7 @@
 
 ## Download
 
-To download FreeSMSToBD app ```v1.0```, please [click here](https://github.com/nadermkhan/custom-sms-project/releases/download/v1.0/CustomSMSProject.apk)
+To download FreeSMSToBD app ```v1.0```, please [click here](https://github.com/nadermkhan/FreeSMSToBD/releases/download/v1.0/FreeSMSToBD_1.0.apk)
 
 ## Installation
 Make sure that installation of app from unknown sources is ***turned on***. Open downloaded apk file with **Package Manager** and simply click on install. ***That's it***
