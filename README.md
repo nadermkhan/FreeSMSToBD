@@ -14,7 +14,7 @@ To download CustomSMSProject app ```v1.0```, please [click here](https://github.
 Make sure that installation of app from unknown sources is ***turned on***. Open downloaded apk file with **Package Manager** and simply click on install. ***That's it***
 
 ## Screenshot
-![ScreenShot 1](https://doslabelectronics.com/uploads/files/ae41e4f0-8734-4afe-85c5-f3e98e3f5b6d-Screenshot_20240627-075435_CustomSMSProject.jpg)
+![ScreenShot 1](https://doslabelectronics.com/uploads/files/adb7f101-0f10-4b46-90ec-b968fd354e4c-Screenshot_20240627-201256_FreeSMSToBD.jpg)
 
 ## Compatibility
 
